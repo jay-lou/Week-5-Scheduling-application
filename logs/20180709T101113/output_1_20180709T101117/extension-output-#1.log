@@ -1,0 +1,64 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/student
+> git status -z -u
+> git show :Schedule/.gitignore
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Schedule/.gitignore
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :Schedule/CachedExtensions/builtin
+> git check-ignore -z --stdin
+> git show :Schedule/.babelrc
+> git show :Schedule/.gitignore
+> git check-ignore -z --stdin
+> git show :Schedule/src/bootstrap.js
+> git show :Schedule/src/bootstrap.js
+> git show :Schedule/env.example.js
+> git show :Schedule/.gitignore
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Schedule/.gitignore
+> git show :Schedule/.gitignore
+> git show :Schedule/.gitignore
+> git show :Schedule/.gitignore
+> git check-ignore -z --stdin
+> git show :Schedule/src/style/main.scss
+> git show :Schedule/.babelrc
+> git show :Schedule/.gitignore
+> git show :Schedule/LICENSE
+> git show :Schedule/src/style/main.scss
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :Schedule/src/components/schedule/schedule.js
+> git check-ignore -z --stdin
+> git show :Schedule/src/components/library/library.js
+> git check-ignore -z --stdin
+> git show :Schedule/src/components/app.js
+> git show :Schedule/src/components/home.js
+> git check-ignore -z --stdin
+> git show :Schedule/src/style/main.scss
+> git show :Schedule/src/style/main.scss
+> git show :Schedule/src/style/main.scss
+> git show :Schedule/src/style/main.scss
