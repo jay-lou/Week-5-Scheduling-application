@@ -1,0 +1,5 @@
+.libraryCourse {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 1);
+    grid-template-rows: 1fr 1fr;
+}
