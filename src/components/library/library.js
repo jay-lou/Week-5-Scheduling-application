@@ -1,5 +1,16 @@
 import React, { Component } from 'react';
 
-class Library extends Component {
+import LibraryCourse from './libraryCourse';
 
+class Library extends Component {
+    render() {
+        return (
+            <div className="library">
+                <h1 className="library-title">Course Library</h1>
+                <LibraryCourse />
+                <LibraryCourse />
+                <LibraryCourse />
+            </div>
+        )
+    }
 }
