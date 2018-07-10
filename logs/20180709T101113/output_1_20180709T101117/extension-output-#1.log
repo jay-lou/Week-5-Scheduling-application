@@ -62,3 +62,10 @@ Use '--' to separate paths from revisions, like this:
 > git show :Schedule/src/style/main.scss
 > git show :Schedule/src/style/main.scss
 > git show :Schedule/src/style/main.scss
+> git show :Schedule/src/style/main.scss
+> git show :Schedule/src/style/main.scss
+> git show :Schedule/src/style/main.scss
+> git show :Schedule/src/components/gradient.js
+> git check-ignore -z --stdin
+> git show :Schedule/src/components/schedule/schedule.js
+> git show :Schedule/src/components/schedule/schedule.js

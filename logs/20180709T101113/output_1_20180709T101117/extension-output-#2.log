@@ -2,3 +2,90 @@
 [Info  - 10:28:14 AM] Forking TSServer
 PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
 [Info  - 10:28:14 AM] Started TSServer
+[Error  - 11:25:58 AM] 'completions' request failed with error.
+Error processing request. Cannot read property 'flags' of undefined
+TypeError: Cannot read property 'flags' of undefined
+    at getApparentType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:28277:25)
+    at Object.getPropertiesOfType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:28063:20)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73852:44
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1802:25)
+    at tryGetClassLikeCompletionSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73850:42)
+    at tryGetGlobalSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73499:24)
+    at getCompletionData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73413:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:72776:34)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:89975:35)
+    at IOSession.Session.getCompletions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:96726:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95767:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97230:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97221:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97230:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97250:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98456:27)
+    at emitOne (events.js:96:13)
+    at Interface.emit (events.js:191:7)
+    at Interface._onLine (readline.js:241:10)
+    at Interface._normalWrite (readline.js:384:12)
+    at Socket.ondata (readline.js:101:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+[Error  - 11:25:58 AM] 'completions' request failed with error.
+Error processing request. Cannot read property 'flags' of undefined
+TypeError: Cannot read property 'flags' of undefined
+    at getApparentType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:28277:25)
+    at Object.getPropertiesOfType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:28063:20)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73852:44
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1802:25)
+    at tryGetClassLikeCompletionSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73850:42)
+    at tryGetGlobalSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73499:24)
+    at getCompletionData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73413:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:72776:34)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:89975:35)
+    at IOSession.Session.getCompletions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:96726:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95767:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97230:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97221:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97230:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97250:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98456:27)
+    at emitOne (events.js:96:13)
+    at Interface.emit (events.js:191:7)
+    at Interface._onLine (readline.js:241:10)
+    at Interface._normalWrite (readline.js:384:12)
+    at Socket.ondata (readline.js:101:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+[Error  - 11:25:58 AM] 'completions' request failed with error.
+Error processing request. Cannot read property 'flags' of undefined
+TypeError: Cannot read property 'flags' of undefined
+    at getApparentType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:28277:25)
+    at Object.getPropertiesOfType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:28063:20)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73852:44
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1802:25)
+    at tryGetClassLikeCompletionSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73850:42)
+    at tryGetGlobalSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73499:24)
+    at getCompletionData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:73413:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:72776:34)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:89975:35)
+    at IOSession.Session.getCompletions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:96726:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95767:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97230:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97221:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97230:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:97250:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98456:27)
+    at emitOne (events.js:96:13)
+    at Interface.emit (events.js:191:7)
+    at Interface._onLine (readline.js:241:10)
+    at Interface._normalWrite (readline.js:384:12)
+    at Socket.ondata (readline.js:101:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)

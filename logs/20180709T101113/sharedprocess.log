@@ -18,3 +18,43 @@
 [2018-07-09 11:01:22.096] [sharedprocess] [info] Scanned user extensions: 4
 [2018-07-09 11:06:22.111] [sharedprocess] [info] Scanned user extensions: 4
 [2018-07-09 11:11:22.158] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-09 11:16:22.184] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-09 11:21:22.220] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-09 11:26:22.240] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-09 11:30:03.946] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-09 11:30:03.969] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-09 11:30:03.970] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-09 11:30:04.708] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-09 11:30:04.714] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-09 11:30:50.246] [sharedprocess] [info] Installing extension: city-lights-theme
+[2018-07-09 11:30:50.249] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-09 11:30:50.640] [sharedprocess] [info] Downloaded extension: city-lights-theme
+[2018-07-09 11:30:50.956] [sharedprocess] [info] Extracted extension to /home/student/.vscode/extensions/.yummygum.city-lights-theme-1.0.5: yummygum.city-lights-theme-1.0.5
+[2018-07-09 11:30:50.958] [sharedprocess] [info] Renamed to /home/student/.vscode/extensions/yummygum.city-lights-theme-1.0.5
+[2018-07-09 11:30:50.958] [sharedprocess] [info] Installation completed. yummygum.city-lights-theme-1.0.5
+[2018-07-09 11:30:51.019] [sharedprocess] [info] Extensions installed successfully: yummygum.city-lights-theme
+[2018-07-09 11:30:51.287] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:30:51.349] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-09 11:31:22.262] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:32:22.287] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:32:22.288] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:32:22.308] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:32:22.341] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:32:22.352] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:32:22.658] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-09 11:32:22.665] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-09 11:32:22.680] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-09 11:32:26.579] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:34:25.812] [sharedprocess] [info] Installing extension: prettier-vscode
+[2018-07-09 11:34:25.820] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:34:26.119] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:34:26.120] [sharedprocess] [error] Failed to install extension: esbenp.prettier-vscode 
+[2018-07-09 11:34:26.383] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:34:26.666] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-09 11:34:32.817] [sharedprocess] [info] Installing extension: prettier-vscode
+[2018-07-09 11:34:32.831] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:34:33.068] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:34:33.068] [sharedprocess] [error] Failed to install extension: esbenp.prettier-vscode 
+[2018-07-09 11:34:33.377] [sharedprocess] [info] Scanned user extensions: 5
+[2018-07-09 11:34:33.628] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-09 11:37:26.691] [sharedprocess] [info] Scanned user extensions: 5
