@@ -6,9 +6,11 @@ class LibraryCourse extends Component {
     render() {
         return (
             <div className="library-course">
+                <div className="library-course__title-check"
             <label className="library-course__title">Problem Solving</label>
-            { Icon('fas fa-check')}
-            {/*arrow component*/}
+            { Icon('fas fa-check', 'library-course__icon')}
+            <Arrow className="library-course__arrow"/>
+            <Action className="library-course__action"/>
             {/*action button component*/}
             <div className="library-course-discription"></div>
                 <label>Course Description</label>
