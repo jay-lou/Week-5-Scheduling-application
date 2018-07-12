@@ -7,19 +7,31 @@ import LibraryCourse from './libraryCourse';
 
 class Library extends Component {
 
-    componentDidMount() {
+    componentWillMount() {
         this.props.fetchCourses()
     }
+
+    renderCourses() {
+        const data = this.props.courses
+
+        return data.map(course => {
+            return <LibraryCourse />
+        })
+    }
     render() {
+
         return (
             <div className="library">
                 <h1 className="library-title">Course Library</h1>
-                <LibraryCourse />
-                <LibraryCourse />
-                <LibraryCourse />
+                {this.renderCourses}
             </div>
         )
     }
 }
+function mapStateToProps(state) {
+    console.log(state)
 
-export default connect(null)(Library);
+    return state
+}
+
+export default connect(mapStateToProps, actions)(Library);
