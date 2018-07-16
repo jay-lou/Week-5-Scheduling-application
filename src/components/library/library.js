@@ -23,7 +23,7 @@ class Library extends Component {
         return (
             <div className="library">
                 <h1 className="library-title">Course Library</h1>
-                {this.renderCourses}
+                {this.renderCourses }
             </div>
         )
     }

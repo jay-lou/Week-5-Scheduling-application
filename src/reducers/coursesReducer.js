@@ -8,6 +8,10 @@ export default function(state = [], action) {
             ...state,
             ...action.payload
         ]
+
+        case TOGGLE_ENROLLED:
+
+        return state
     default {
         return(state);
     }
